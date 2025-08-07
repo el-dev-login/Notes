@@ -1,4 +1,4 @@
-**Add your own guidelines here**
+**Purpose** This file is for telling the AI Agent guidelines on development. 
 
 # General Guidelines
 * Only use absolute positioning when necessary. Opt for responsive and well structured layouts that use flexbox and grid by default
