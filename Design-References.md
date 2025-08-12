@@ -14,6 +14,8 @@
 
 ### Shadcn/ui theme to paste into Figma plugin
 
+Can't figure out how to move a design system from one variable collection to another for colors. 
+
 @layer base {
     :root {
       --background: 242 53% 99%;
